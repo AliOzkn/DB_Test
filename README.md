@@ -2,8 +2,8 @@
 
 SQL Server ile ***TelefonRehberi*** adında veri tabanı oluşturulmuştur.<br>
 SQL Server üzerinde script oluşturularak tablo oluşturma, veri ekleme, güncelleme, silme ve listeleme işlemleri yapılmıştır.<br>
-Yazılan script ***DB_Test/SqlServer/*** klasörü içindedir. [Buraya tıklayarak](https://github.com/AliOzkn/DB_Test/blob/master/DB_Test/SqlServer/Telefon_Rehberi_Query.sql) ulaşabilirsiniz. Bu dosya export edilerek SQL Server'da açılabilir. <br>
-Aynı klasör içindeki ***TelefonRehberi.txt*** adlı dosyada tablo değerleri vardır. Export edilerek kullanılabilir.
+Yazılan script ***DB_Test/SqlServer/*** klasörü içindedir. [Buraya tıklayarak](https://github.com/AliOzkn/DB_Test/blob/master/DB_Test/SqlServer/Telefon_Rehberi_Query.sql) ulaşabilirsiniz. Bu dosya import edilerek SQL Server'da açılabilir. <br>
+Aynı klasör içindeki ***TelefonRehberi.txt*** adlı dosyada tablo değerleri vardır. Veri tabanı oluşturulduktan sonra, bu dosya import edilerek kullanılabilir.
   - Oluşturulan tablo
 <p align="center">
  <img src="https://user-images.githubusercontent.com/107454207/214802868-c096da58-1d7e-4fe4-a577-fec92f5b3b4b.png"/>
